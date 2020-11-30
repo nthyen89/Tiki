@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="32199" started-at="2020-11-30T10:19:23Z" finished-at="2020-11-30T10:19:55Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="32199" started-at="2020-11-30T10:19:23Z" finished-at="2020-11-30T10:19:55Z">
+      <class name="Tiki1.Main">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:Tiki1.Main@5d5eef3d]" name="beforeClass" is-config="true" duration-ms="12222" started-at="2020-11-30T17:19:23Z" finished-at="2020-11-30T17:19:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="buy_Item()[pri:0, instance:Tiki1.Main@5d5eef3d]" name="buy_Item" duration-ms="19961" started-at="2020-11-30T17:19:35Z" finished-at="2020-11-30T17:19:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- buy_Item -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:Tiki1.Main@5d5eef3d]" name="afterClass" is-config="true" duration-ms="1" started-at="2020-11-30T17:19:55Z" finished-at="2020-11-30T17:19:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- Tiki1.Main -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
